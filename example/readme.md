@@ -1,1 +1,1 @@
-this is example
+open "trid.png"
