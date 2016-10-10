@@ -11,7 +11,8 @@ How to Run?
   Just run the "a--.py" file and all the 4 optimization algorithms will run simultaneously.
 	
   It will ask algo name: 
-  type "trid" without quotes
+  type "trid" without quotes.
+  
   this is fitness function
   You can change it by commenting various fitness function in "fitness.py" file.
 
