@@ -7,13 +7,14 @@
   
   
 How to Run?
-->
-Just run the "a--.py" file and all the 4 optimization algorithms will run simultaneously.
+  ->
+  Just run the "a--.py" file and all the 4 optimization algorithms will run simultaneously.
+
 
 Output??
-->
-1. 4 excel result files corresponding to the algos.
-2. Comparison of 4 algo performance.
+  ->
+  1. 4 excel result files corresponding to the algos.
+  2. Comparison of 4 algo performance.
 
 
 
